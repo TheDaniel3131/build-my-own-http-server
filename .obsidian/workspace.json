@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "build-my-own-http-server/notes/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "build-my-own-http-server/notes/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "build-my-own-http-server/notes/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "build-my-own-http-server/notes/README.md"
+                "file": "README.md"
               }
             }
           },
@@ -154,8 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db49ba2c7ea4f18c",
+  "active": "ec547e76003bb24f",
   "lastOpenFiles": [
+    "build-my-own-http-server/Notes/Chapter 1.md",
+    "build-my-own-http-server/Notes/README.md",
     "build-my-own-http-server/create-my-own-http-server/create-my-own-http-server",
     "build-my-own-http-server/create-my-own-http-server",
     "LICENSE",
