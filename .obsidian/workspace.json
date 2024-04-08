@@ -11,8 +11,12 @@
             "id": "db49ba2c7ea4f18c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "build-my-own-http-server/notes/README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,12 +85,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "build-my-own-http-server/notes/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "build-my-own-http-server/notes/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +124,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "build-my-own-http-server/notes/README.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,7 +145,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec547e76003bb24f",
+  "active": "db49ba2c7ea4f18c",
   "lastOpenFiles": [
     "build-my-own-http-server/create-my-own-http-server/create-my-own-http-server",
     "build-my-own-http-server/create-my-own-http-server",
