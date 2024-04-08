@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "aba0e8b3db7f2402",
+    "id": "8bb04a174696abda",
     "type": "split",
     "children": [
       {
-        "id": "458316ce09dac8ff",
+        "id": "2aae0dc707d46fc2",
         "type": "tabs",
         "children": [
           {
-            "id": "4039071ed9aeefcf",
+            "id": "db49ba2c7ea4f18c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "create-my-own-http-server/README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7069b4e7d851f2d8",
+    "id": "ade166ebd8124221",
     "type": "split",
     "children": [
       {
-        "id": "9e8a32df85bce97b",
+        "id": "23bfb2c51eba4b85",
         "type": "tabs",
         "children": [
           {
-            "id": "cc782d739cf2ea95",
+            "id": "ec547e76003bb24f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "602ee254cad5b8c8",
+            "id": "7cf52ed2977d84db",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "d44ee2eaf072e8d5",
+            "id": "ba9da1ef2b229317",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "7054804abcd08c27",
+    "id": "a40ab7743376cc77",
     "type": "split",
     "children": [
       {
-        "id": "62be0d835e2753a6",
+        "id": "c24593ad78621589",
         "type": "tabs",
         "children": [
           {
-            "id": "9119c4deb0323024",
+            "id": "cea29e12c9d25e46",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "create-my-own-http-server/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,40 +92,36 @@
             }
           },
           {
-            "id": "f613bfff8ecb026d",
+            "id": "3a0b4bc7c8bf7aa4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "create-my-own-http-server/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a1e364d82d320915",
+            "id": "21b3c8b6dbe98a11",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "ed36e00c51526d99",
+            "id": "4dad173a5cd23e0d",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "create-my-own-http-server/README.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,13 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4039071ed9aeefcf",
+  "active": "ec547e76003bb24f",
   "lastOpenFiles": [
-    "Welcome.md",
-    "create-my-own-http-server/README.md",
-    "create-my-own-http-server/notes/README.md",
-    "create-my-own-http-server/notes",
-    "create-my-own-http-server/LICENSE",
-    "create-my-own-http-server"
+    "build-my-own-http-server/create-my-own-http-server/create-my-own-http-server",
+    "build-my-own-http-server/create-my-own-http-server",
+    "LICENSE",
+    "README.md"
   ]
 }
