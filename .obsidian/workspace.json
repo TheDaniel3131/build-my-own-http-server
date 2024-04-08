@@ -128,8 +128,17 @@
                 "file": "build-my-own-http-server/notes/README.md"
               }
             }
+          },
+          {
+            "id": "49881e8c0d18bf00",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
