@@ -86,8 +86,8 @@
               "type": "backlink",
               "state": {
                 "file": "create-my-own-http-server/notes/README.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,6 +145,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1b9392b04d134a1",
+  "active": "08f3067beb269c38",
   "lastOpenFiles": []
 }
