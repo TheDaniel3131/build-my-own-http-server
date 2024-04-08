@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "build-my-own-http-server/Notes/Chapter 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "build-my-own-http-server/Notes/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "build-my-own-http-server/Notes/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "build-my-own-http-server/Notes/Chapter 1.md"
               }
             }
           },
@@ -156,11 +156,21 @@
   },
   "active": "ec547e76003bb24f",
   "lastOpenFiles": [
+    "build-my-own-http-server/codecrafters-http-server-python/your_server.sh",
+    "build-my-own-http-server/codecrafters-http-server-python/codecrafters.yml",
+    "build-my-own-http-server/codecrafters-http-server-python/app/main.py",
+    "build-my-own-http-server/codecrafters-http-server-python/app",
+    "build-my-own-http-server/codecrafters-http-server-python/README.md",
+    "build-my-own-http-server/codecrafters-http-server-python/Pipfile.lock",
+    "build-my-own-http-server/codecrafters-http-server-python/Pipfile",
+    "build-my-own-http-server/codecrafters-http-server-python",
+    "CodeCrafters",
+    "Pasted image 20240409001748.png",
+    "README.md",
     "build-my-own-http-server/Notes/Chapter 1.md",
     "build-my-own-http-server/Notes/README.md",
     "build-my-own-http-server/create-my-own-http-server/create-my-own-http-server",
     "build-my-own-http-server/create-my-own-http-server",
-    "LICENSE",
-    "README.md"
+    "LICENSE"
   ]
 }
