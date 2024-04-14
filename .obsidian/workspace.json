@@ -156,8 +156,9 @@
   },
   "active": "49881e8c0d18bf00",
   "lastOpenFiles": [
-    "apps_note/respond-with-200.py",
+    "apps_note/respond-with-404.py",
     "apps_note/New Text Document.txt",
+    "apps_note/respond-with-200.py",
     "apps_note/bind-to-a-port.py",
     "apps_note/bind-to-port.py",
     "apps_note",
@@ -173,7 +174,6 @@
     "build-my-own-http-server/codecrafters-http-server-python/README.md",
     "build-my-own-http-server/codecrafters-http-server-python/Pipfile.lock",
     "build-my-own-http-server/codecrafters-http-server-python/Pipfile",
-    "build-my-own-http-server/codecrafters-http-server-python/codecrafters.yml",
     "build-my-own-http-server/Notes/Chapter 2.md",
     "Pasted image 20240409002114.png",
     "build-my-own-http-server/Notes/Chapter 1.md",
